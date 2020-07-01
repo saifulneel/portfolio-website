@@ -88,6 +88,7 @@ h2{
 }
 .testimonial p:nth-child(2){
     font-size: 14px;
+    line-height: 0px;
 }
 .testimonial p:nth-child(3){
     width: 60%;
