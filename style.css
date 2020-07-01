@@ -124,18 +124,17 @@ h2{
 
 /*-----------------Form area started------------------*/
 
-.form-section{
-    width: 600px;
-    margin: auto;
-    padding-bottom: 100px;
+.contact-section{
+    height: 500px;
+    padding-bottom: 150px;
 }
 .form-section input, textarea{
-    width: 100%;
+    width: 90%;
     padding: 10px;
     margin-bottom: 10px;
 }
 .form-section input[type=submit]{
-    width: 104%;
+    width: 94%;
     color: #fff;
     background: #FF1E76;
     border: none;
@@ -155,7 +154,7 @@ h2{
 }
 .footer-text{
     text-align: center;
+    font-weight: bold;
 }
-
 
 /*-----------------Footer area ended------------------*/
