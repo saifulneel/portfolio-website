@@ -12,6 +12,8 @@ a{
 .first-section{
     height: 500px;
     padding-bottom: 200px;
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
 }
 .half{
     width: 40%;
@@ -51,6 +53,8 @@ h1{
 .second-section{
     height: 500px;
     padding-bottom: 400px;
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
 }
 
 /*-----------------Second section ended-----------------*/
@@ -58,7 +62,10 @@ h1{
 /*------------------Work area started-------------------*/
 
 .work-section{
-    padding-bottom: 500px;
+    height: 500px;
+    padding-bottom: 100px;
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
 }
 .latest-work{
     width: 30%;
@@ -120,7 +127,7 @@ h2{
 .form-section{
     width: 600px;
     margin: auto;
-    padding-bottom: 150px;
+    padding-bottom: 100px;
 }
 .form-section input, textarea{
     width: 100%;
@@ -141,11 +148,14 @@ h2{
 
 /*-----------------Footer area started---------------*/
 
-footer{
-    text-align: center;
-    color: #fff;
-    background-color: #FF1E76;
-    padding: 5px 0px;
+.footer-section{
+    height: 40px;
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
 }
+.footer-text{
+    text-align: center;
+}
+
 
 /*-----------------Footer area ended------------------*/
