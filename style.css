@@ -6,7 +6,9 @@ body{
 a{
     text-decoration: none;
 }
+
 /*-----------------First section started-----------------*/
+
 .first-section{
     height: 500px;
     padding-bottom: 200px;
@@ -41,13 +43,16 @@ h1{
 .mar-top{
     margin-top: 100px;
 }
+
 /*-----------------First section ended--------------------*/
 
 /*-----------------Second section started-----------------*/
+
 .second-section{
     height: 500px;
     padding-bottom: 400px;
 }
+
 /*-----------------Second section ended-----------------*/
 
 /*------------------Work area started-------------------*/
@@ -63,6 +68,7 @@ h1{
 .latest-work img{
     width: 100%;
 }
+
 /*-----------------Work area ended---------------------*/
 
 /*-----------------Client area started-----------------*/
@@ -110,6 +116,7 @@ h2{
 /*-----------------Client area ended------------------*/
 
 /*-----------------Form area started------------------*/
+
 .form-section{
     width: 600px;
     margin: auto;
@@ -129,7 +136,10 @@ h2{
     padding: 12px 0px;
     font-size: 16px;
 }
+
 /*-----------------Form area ended------------------*/
+
+/*-----------------Footer area started---------------*/
 
 footer{
     text-align: center;
@@ -137,3 +147,5 @@ footer{
     background-color: #FF1E76;
     padding: 5px 0px;
 }
+
+/*-----------------Footer area ended------------------*/
