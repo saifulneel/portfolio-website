@@ -1,0 +1,138 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+/*-----------------First section started-----------------*/
+.first-section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+.half{
+    width: 40%;
+    float: left;
+    padding-left: 5%;
+}
+h4, h3{
+    font-size: 30px;
+}
+h1{
+    font-size: 50px;
+    color: #FF1E76;
+    line-height: 15px;
+}
+.half a{
+    padding: 10px 40px;
+    background-image: linear-gradient(45deg, #FF1973, #FF4E95);
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+}
+.half p{
+    padding-bottom: 20px;
+}
+.half img{
+    width: 100%;
+}
+.mar-top{
+    margin-top: 100px;
+}
+/*-----------------First section ended--------------------*/
+
+/*-----------------Second section started-----------------*/
+.second-section{
+    height: 500px;
+    padding-bottom: 400px;
+}
+/*-----------------Second section ended-----------------*/
+
+/*------------------Work area started-------------------*/
+
+.work-section{
+    padding-bottom: 500px;
+}
+.latest-work{
+    width: 30%;
+    float: left;
+    padding: 1.5%;
+}
+.latest-work img{
+    width: 100%;
+}
+/*-----------------Work area ended---------------------*/
+
+/*-----------------Client area started-----------------*/
+
+h2{
+    font-size: 40px;
+    text-align: center;
+}
+.client-section{
+    width: 700px;
+    margin: auto;
+    padding-bottom: 150px;
+}
+.testimonial p:nth-child(1),
+.testimonial p:nth-child(2),
+.testimonial p:nth-child(3){
+    text-align: center;
+}
+.testimonial p:nth-child(1){
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 60px;
+}
+.testimonial p:nth-child(2){
+    font-size: 14px;
+}
+.testimonial p:nth-child(3){
+    width: 60%;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+.box{
+    text-align: center;
+    background-image: linear-gradient(45deg, #FF136F, #FF4E95);
+    padding: 30px 50px;
+    border-radius: 10px;
+    color: #fff;
+}
+.box p:nth-child(2){
+    font-size: 25px;
+}
+
+/*-----------------Client area ended------------------*/
+
+/*-----------------Form area started------------------*/
+.form-section{
+    width: 600px;
+    margin: auto;
+    padding-bottom: 150px;
+}
+.form-section input, textarea{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.form-section input[type=submit]{
+    width: 104%;
+    color: #fff;
+    background: #FF1E76;
+    border: none;
+    border-radius: 2px;
+    padding: 12px 0px;
+    font-size: 16px;
+}
+/*-----------------Form area ended------------------*/
+
+footer{
+    text-align: center;
+    color: #fff;
+    background-color: #FF1E76;
+    padding: 5px 0px;
+}
